@@ -40,16 +40,16 @@ These feeds are intended to **augment existing security controls**, not replace 
 
 ## Repository Structure
 
-soclogix-threat-feeds/
-├── feeds/
-│ ├── ip/
-│ ├── domain/
-│ ├── url/
-│ ├── hash/
-│ └── misc/
-├── schemas/
-├── examples/
-└── metadata/
+soclogix-threat-feeds
+  feeds/
+    ip/
+    domain/
+    url/
+    hash/
+    misc/
+  schemas/
+  examples/
+  metadata/
 
 The Folder structure may evolve over time as new feed types are added.
 
